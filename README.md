@@ -8,7 +8,8 @@ Creating Responsive Web Applications
 Vue.js Developer in Progress
 Crafting Clean UI & Smooth UX
 ----------------------------------------------
-Building clean interfaces with Vue, Bootstrap, and modern web technologies.
+
+<h1>Building clean interfaces with Vue, Bootstrap, and modern web technologies. </h1>
 
 
 ## 🌐 Socials:
