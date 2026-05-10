@@ -9,7 +9,7 @@ Vue.js Developer in Progress
 Crafting Clean UI & Smooth UX
 ----------------------------------------------
 
-<h1>Building clean interfaces with Vue, Bootstrap, and modern web technologies. </h1>
+<h3 style="font-weight: 600; font-style: italic; ">Building clean interfaces with Vue, Bootstrap, and modern web technologies. </h1>
 
 
 ## 🌐 Socials:
