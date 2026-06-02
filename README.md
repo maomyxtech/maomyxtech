@@ -2,11 +2,7 @@
 # 💫 About Me:
 Hi There , this is Mao My 
 
-Frontend Developer | Vue Enthusiast
-Building Modern Web Experiences
-Creating Responsive Web Applications
-Vue.js Developer in Progress
-Crafting Clean UI & Smooth UX
+Frontend Developer | UX/UI designer | Video Editor
 ----------------------------------------------
 
 <h3 style="font-weight: 600; font-style: italic; ">Building clean interfaces with Vue, Bootstrap, and modern web technologies. </h1>
