@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+#About Me:
 Hi There , this is Mao My 
 
 Frontend Developer | UX/UI designer | Video Editor
