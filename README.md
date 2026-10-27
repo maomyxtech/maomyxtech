@@ -2,10 +2,6 @@
 #About Me:
 Hi There , this is Mao My 
 
-Junior Developer | UX/UI designer | Video Editor
-----------------------------------------------
-
-<h3 style="font-weight: 600; font-style: italic; ">Building clean interfaces with Vue, Bootstrap, and modern web technologies. </h1>
 
 
 ## 🌐 Socials:
